@@ -1,0 +1,15 @@
+D:\C SHARP\HouseMS\HouseMS\bin\Debug\net6.0\HouseMS.exe
+D:\C SHARP\HouseMS\HouseMS\bin\Debug\net6.0\HouseMS.deps.json
+D:\C SHARP\HouseMS\HouseMS\bin\Debug\net6.0\HouseMS.runtimeconfig.json
+D:\C SHARP\HouseMS\HouseMS\bin\Debug\net6.0\HouseMS.dll
+D:\C SHARP\HouseMS\HouseMS\bin\Debug\net6.0\HouseMS.pdb
+D:\C SHARP\HouseMS\HouseMS\obj\Debug\net6.0\HouseMS.csproj.AssemblyReference.cache
+D:\C SHARP\HouseMS\HouseMS\obj\Debug\net6.0\HouseMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\C SHARP\HouseMS\HouseMS\obj\Debug\net6.0\HouseMS.AssemblyInfoInputs.cache
+D:\C SHARP\HouseMS\HouseMS\obj\Debug\net6.0\HouseMS.AssemblyInfo.cs
+D:\C SHARP\HouseMS\HouseMS\obj\Debug\net6.0\HouseMS.csproj.CoreCompileInputs.cache
+D:\C SHARP\HouseMS\HouseMS\obj\Debug\net6.0\HouseMS.dll
+D:\C SHARP\HouseMS\HouseMS\obj\Debug\net6.0\refint\HouseMS.dll
+D:\C SHARP\HouseMS\HouseMS\obj\Debug\net6.0\HouseMS.pdb
+D:\C SHARP\HouseMS\HouseMS\obj\Debug\net6.0\HouseMS.genruntimeconfig.cache
+D:\C SHARP\HouseMS\HouseMS\obj\Debug\net6.0\ref\HouseMS.dll

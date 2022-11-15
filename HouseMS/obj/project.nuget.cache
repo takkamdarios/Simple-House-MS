@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T2H+JTPwPVUFiYTuyIGL1JN8TTSTdOkAlGUsQ5lZ/b6Ze/LyHkGo290Zztm6c0F9Y1JLnI++50QIQSemfLgeVQ==",
+  "success": true,
+  "projectFilePath": "D:\\C SHARP\\HouseMS\\HouseMS\\HouseMS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ALGORITHME TAKAM\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\ALGORITHME TAKAM\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
